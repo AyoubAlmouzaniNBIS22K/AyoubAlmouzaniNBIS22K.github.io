@@ -1,3 +1,5 @@
+<html>
+<body>
 ##Exercise 1
 
 ####Italics
@@ -166,3 +168,6 @@ This document explains the changes and additions to the [Markdown syntax](https:
         this.age = this.age + 1;
        }
     }
+
+</body>
+</html>
